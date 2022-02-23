@@ -1,2 +1,2 @@
-# GitProblem1
-This repo is created to perform problem 1 in i-assess
+# GitProblem2
+This repo is created to perform problem 2 in i-assess
